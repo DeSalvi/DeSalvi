@@ -87,21 +87,28 @@
 ![Snake animation](https://github.com/DeSalvi/DeSalvi/blob/output/github-contribution-grid-snake.svg)
 
 ## Para o meu amor.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 Se leu mamou.
 
 
