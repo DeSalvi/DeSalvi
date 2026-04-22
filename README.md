@@ -82,3 +82,6 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🐍 Snake Game
+![Snake animation](https://github.com/DeSalvi/DeSalvi/blob/output/github-contribution-grid-snake.svg)
